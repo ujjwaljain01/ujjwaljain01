@@ -14,17 +14,14 @@
 
 - 💬 Ask me about **React.js, JavaScript & Frontend Development**
 
-- 📫 How to reach me: **ujjwaljain@example.com**
+- 📫 How to reach me: **ujjwaljain.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/ujjwaljain" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
-</a>
 <a href="https://twitter.com/ujjwaljain_dev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/ujjwaljain_dev" target="blank">
+<a href="https://linkedin.com/in/ujjwaljain-dev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 <a href="https://discord.gg/yourdiscord" target="blank">
