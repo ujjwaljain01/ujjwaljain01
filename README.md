@@ -65,6 +65,6 @@
 
 ![Ujjwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljain01&theme=blueberry&show_icons=true&hide_border=true&layout=pie&align=center)
 
-![Ujjwal's Stats](https://github-readme-stats.vercel.app/api?username=ujjwaljain&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![Ujjwal's Stats](https://github-readme-stats.vercel.app/api?username=ujjwaljain01&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
-[![Ujjwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwaljain&theme=tokyo-night)](https://github.com/ujjwaljain/github-readme-activity-graph)
+[![Ujjwal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ujjwaljain01&theme=tokyo-night)](https://github.com/ujjwaljain01/github-readme-activity-graph)
