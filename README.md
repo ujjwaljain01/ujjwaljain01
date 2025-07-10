@@ -24,7 +24,7 @@
 <a href="https://twitter.com/ujjwaljain_dev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/ujjwaljain" target="blank">
+<a href="https://linkedin.com/in/ujjwaljain_dev" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 <a href="https://discord.gg/yourdiscord" target="blank">
@@ -63,7 +63,7 @@
   </a> 
 </p>
 
-![Ujjwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljain&theme=blueberry&show_icons=true&hide_border=true&layout=pie&align=center)
+![Ujjwal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaljain01&theme=blueberry&show_icons=true&hide_border=true&layout=pie&align=center)
 
 ![Ujjwal's Stats](https://github-readme-stats.vercel.app/api?username=ujjwaljain&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
